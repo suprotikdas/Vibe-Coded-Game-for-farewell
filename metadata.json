@@ -1,0 +1,6 @@
+{
+  "name": "Paper Airplane Skyline",
+  "description": "An interactive paper airplane skyline simulation featuring floating clouds, custom buildings, an animated paper airplane target flight path, and hidden window messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
