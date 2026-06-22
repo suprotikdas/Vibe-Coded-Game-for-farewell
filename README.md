@@ -1,12 +1,8 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
-# Run and deploy your AI Studio app
+This is a ganme that I made for the farewell using claude and AI Studio 
+Just a simple fornt-end game based on the farewell theme
+# Run and deploy your GAME
 
 This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/c0f38bde-5316-4780-9741-46d232ef4112
 
 ## Run Locally
 
